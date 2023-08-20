@@ -12,7 +12,9 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: aqua;
+    background-image: url(/img/cyan-pink-gradient-wallpaper.jpg);
+    background-repeat: no-repeat;
+    background-size: 1600px;
 
     
 }
