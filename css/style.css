@@ -12,7 +12,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url(/img/cyan-pink-gradient-wallpaper.jpg);
+    background-image: url(../img/cyan-pink-gradient-wallpaper.jpg);
     background-repeat: no-repeat;
     background-size: 1600px;
 
@@ -24,7 +24,7 @@ main{
     display: flex;
     flex-direction: column;
     gap: 5px;
-    background-image: url(/img/0bb6dqsiab451.gif);
+    background-image: url(../img/0bb6dqsiab451.gif);
     border: 1px solid black;
     padding: 35px;
     background-size: 900px;
